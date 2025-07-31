@@ -23,7 +23,9 @@ I am planning on adding plenty more features to this over time, because I kinda 
 # Installation
 Hold on, I'm still setting things up...
 <br>
-Come back in a while.
+Come back in a while. <br>
+<br>
+For now, just git pull and hope for the best. You'll need ffmpeg set in PATH for this to work and install a few libraries.
 
 # Example GIFs
 ![Cooking](https://github.com/user-attachments/assets/a55e64c0-f60b-4007-8e9c-caa78b1ddc85)
